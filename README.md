@@ -1,0 +1,2 @@
+# guiltygear-api
+idk
