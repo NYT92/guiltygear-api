@@ -1,0 +1,34 @@
+{
+  "name": {
+    "english": "Potemkin",
+    "kanji": "ポチョムキン",
+    "romaji": "Pochomukin"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/9/94/Potemkin_Guilty_Gear_Strive.png/revision/latest?cb=20191119011149",
+  "profiles": {
+    "race": "Human",
+    "gender": "Male",
+    "age": "Unknown",
+    "height": [
+      "245 cm (8'0\") (GG—GGXXAC+R)",
+      "258 cm (8'6\") (GGXrdS—)"
+    ],
+    "weight": [
+      "656 kg (1446 lbs.) (GG—GGXXAC+R)",
+      "1212 kg (2672 lbs.) (GGXrdS—)"
+    ],
+    "blood_type": "O",
+    "origin": "Zepp",
+    "birthday": "October 18",
+    "eye_color": "White",
+    "hobbies": "Drawing",
+    "likes": "Indestructible pencil cases",
+    "dislikes": "Pencils that snap under 4 tons of weight"
+  },
+  "description": {
+    "info": "Potemkin is a recurring character in the Guilty Gear series. He was a former slave in the Zepp Armed Air Empire, and was a supporter of the democratic revolution that took place. He is currently a member of Zepp's elite presidential guard, working closely with President Gabriel.\n",
+    "design": "Potemkin is a tan, muscular man and one of the tallest characters in the series. He has brown hair that he ties up in a ponytail, or more often in a bun. He has eyes usually depicted as completely white without pupils. On his left shoulder he has a black barcode tattoo.\nPotemkin's classic design has him shirtless, wearing blue jeans and red toed brown boots. He wears a giant red collar. In the original Guilty Gear, it was a slave collar that would explode should he try to remove it, but this function was since removed. His gauntlets are black fingerless gloves with red metal plating and cuffs. In the Xrd games and onward, Potemkin's design has changed drastically, as he now sports a green body-tight military uniform with grey spiked shoulder pads. He also wears a robot-like metal helmet with a decorative orange ponytail. His gauntlets are more technologically advanced, now fully covering his hands.\n",
+    "personality": "Despite people's assumption regarding his appearance, Potemkin is actually an intelligent and calculating individual who dislikes fighting, only doing it when absolutely necessary and for the sake of others. While Potemkin can withstand pain, he cannot bear to witness the pain of others.\nPotemkin is proud, and has a honest heart. He has a kind, gentle character, and great love for nature. He places the utmost importance on ceremony, and loathes superficial behavior or unreasonable demands. Able to meet pressure and adversity head on, Potemkin places great importance in his duty and comrades, and is capable of keeping his patience even when the person he's speaking to isn't being necessarily friendly.\n"
+  }
+}

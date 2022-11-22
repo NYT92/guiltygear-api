@@ -1,0 +1,33 @@
+{
+  "name": {
+    "english": "Justice",
+    "kanji": "ジャスティス",
+    "romaji": "Jasutisu"
+  },
+  "alias": [
+    "Type-01/Number1(壱号,Ichigō?)",
+    "UltimateGear(孤高のギア,KokōnoGia?)",
+    "God/HeraldofDestruction(破壊神,Hakai-shin?)",
+    "Scales/BalanceofJuno(ユノの天秤,YunonoTenbin?)"
+  ],
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/0/03/Justice.png/revision/latest?cb=20111210051517",
+  "profiles": {
+    "race": "Gear",
+    "gender": "Female",
+    "age": "Unknown",
+    "height": "232cm(7'7\")",
+    "weight": "221kg(487lbs.)",
+    "blood_type": "Unanalyzable",
+    "origin": "United States",
+    "birthday": "September 2",
+    "eye_color": "Gold",
+    "hobbies": "Sleeping",
+    "likes": "Herself",
+    "dislikes": "Humans"
+  },
+  "description": {
+    "info": "Justice is a major character in the Guilty Gear series. Created by That Man, Justice is the first \"complete\" Gear with free will and with the power to control all of her own kind. She was the instigator of the Crusades, a hundred-year war against humanity, until she was finally sealed by the Sacred Order of Holy Knights.\n",
+    "design": "Justice has a reptilian-like visage and eyes, as well as waist-length wild red hair. Her eyes with slit pupils are sometimes depicted as gold or red, and a distinctive brand can be seen on her forehead. Justice is completely covered by armor assumed to be a battle suit, which is primarily white, including her long tail; some components are colored blue including her pectoral plates, the borders of her massive shoulder pauldrons, ischium, and forehead. All of her joints are black in color, and her feet (or rather, sabatons) resemble heels.\n",
+    "personality": "Having forgotten her prior identity,  Justice's raison d'etre is the destruction of mankind.  Of high-level human intelligence,  she is quite shrewd  and confident in her own power, thinking of herself as \"merciful\", yet also completely impassive in her demeanor, except towards the one who sealed her away. \nDespite her open disdain towards humanity in general, she is capable of acknowledging their tenacity, strength and courage, as shown in her interactions with Kliff Undersn, whom she came to respect, even offering him an opportunity to retreat to avoid his inevitable death.  She once spared Sol Badguy out of simple amusement at his recklessness, indicating that she enjoys strong opponents. \nLimited by her status as a weapon,  Justice exhibits a resigned and melancholic anger over her role, as she believes that she has no choice but to be a nemesis towards mankind. She equally feels enraged at humanity for labeling Gears as evil or a sin against nature, despite the fact that they did not have a choice in their creation and were born as slaves. That is her rebellion: she was created to kill, and so she does, for that is her \"justice\". \n"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": {
+    "english": "Dr. Baldhead",
+    "kanji": "Ｄｒ．ボルドヘッド",
+    "romaji": "Dokutā Bōrudoheddo"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/9/9d/DrBaldhead.png/revision/latest?cb=20200403094108",
+  "profiles": {
+    "race": "Human",
+    "gender": "Male",
+    "age": "Unknown",
+    "height": "282cm(9'4\")",
+    "weight": "55kg(121lbs.)",
+    "blood_type": "O",
+    "origin": "China",
+    "birthday": "August 21",
+    "eye_color": "Black",
+    "hobbies": "Performing elaborate operations",
+    "likes": "His scalpel",
+    "dislikes": "Cancerous cells"
+  },
+  "description": {
+    "info": "Dr. Baldhead is a playable character in the Guilty Gear series. Formerly a physician of great renown and skill, the mysterious death of one his patients during a surgery drove him mad, thinking he had committed malpractice. In his insanity, he became a violent serial killer.\n",
+    "design": "Dr. Baldhead is—as his name indicates—bald and has black eyes, unseen behind round-shaped glasses. He is generally smiling with his tongue out. Of a lanky build, he is an extremely tall man, and towers over every other character in the game whenever he is not in his extremely low fighting stance: a deep crouch with his body leaning forward while holding his six-foot scalpel.\nOutside of battle, he wears a white laboratory coat above a black shirt with a red tie. During his battle intro, he rips it off to reveal a short-sleeved, entirely dark green tunic with a loincloth and a white collar, held together by several black-colored belts and a silver buckle. He has matching gloves and boots.\n",
+    "personality": "In the days he worked as a physician, Dr. Baldhead was a genuinely benign man, gentle and skillful  and nothing warmed his heart like curing the sick.  However, the mysterious death of one of his patients deeply traumatized him and severely weakened his grip on sanity. Baldhead continues to behave like a doctor, thinking of his victims as patients to be treated, but seems to simultaneously revel in their bloodshed as much as he can be horrified by the results.\n"
+  }
+}

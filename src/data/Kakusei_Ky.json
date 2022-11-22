@@ -1,0 +1,28 @@
+{
+  "name": {
+    "english": "Kakusei Ky",
+    "kanji": "覚醒カイ",
+    "romaji": "Kakusei Kai"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/b/b0/Kakusei_Ky_Kiske_sprites.gif/revision/latest?cb=20190323133327",
+  "profiles": {
+    "race": "Human",
+    "gender": "Male",
+    "age": "",
+    "height": "178cm",
+    "weight": "58kg",
+    "blood_type": "",
+    "origin": "",
+    "birthday": "",
+    "eye_color": "Red",
+    "hobbies": "",
+    "likes": "",
+    "dislikes": ""
+  },
+  "description": {
+    "info": "Kakusei Ky (which means \"Awakened Ky\" in Japanese) is an awakened EX version of Ky Kiske that only appears in Guilty Gear Isuka. He is one of two bosses in its GG Boost Mode, the other being Kakusei Sol.\n",
+    "design": "",
+    "personality": ""
+  }
+}

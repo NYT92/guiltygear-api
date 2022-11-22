@@ -1,0 +1,31 @@
+{
+  "name": {
+    "english": "Order-Sol",
+    "kanji": "聖騎士団ソル",
+    "romaji": "Seikishidan Soru"
+  },
+  "alias": [
+    "Boss(旦那,Dan'na?)",
+    "GodofWar/ArmyGod(軍神,Gunshin?)"
+  ],
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/d/df/Order_Sol.png/revision/latest?cb=20200503134738",
+  "profiles": {
+    "race": "Gear",
+    "gender": "Male",
+    "age": "Unknown",
+    "height": "182cm(6'0\")",
+    "weight": "74kg(163lbs.)",
+    "blood_type": "Unanalyzable",
+    "origin": "United States",
+    "birthday": "Unknown",
+    "eye_color": "Brown",
+    "hobbies": "Listening to Queen",
+    "likes": "His \"Sheer Heart Attack\" record by Queen",
+    "dislikes": "Effort, trying hard"
+  },
+  "description": {
+    "info": "Order-Sol is a playable character in the Guilty Gear series. He is a past version of Sol Badguy back when he was enlisted with the Sacred Order of Holy Knights towards the end of the Crusades, circa 2172 AD.\n",
+    "design": "Physically, he looks the same as his current self: long, spiky brown hair held together by his trademark headband with the \"Rock You\" inscription, a muscular build, and eyes that are usually brown in color, but sometimes turn gold with slit pupils.\nHis outfit is the standard, red based version of the Sacred Order of Holy Knights uniform, fastened together with his belt plate inscribed with the word \"FREE\", also wearing a tight sleeved black and white undershirt. Order-Sol's design also contains white based with black finger gloves. He wears red boots that are extremely similar to those he wears in Guilty Gear and Guilty Gear X.\n",
+    "personality": "Order-Sol's personality is similar as the present one: both being sullen and unrefined, speaking to others only when absolutely necessary.  Despite being the same person, Sol seems more irritable and bitter, but is not as openly rude to others as the present Sol via likely keeping to himself more around professional company.\nWithin the Order's organization, heeding the word \"FREE\" as his motto, Sol is a lone wolf and rarely works alongside others,  with his missions being mostly guerrilla-style attacks,  and disobeying direct orders so as to kill Gears on his own as he always has.  Despite being acknowledged as a great fighter, many of his fellow knights are said to bear him \"little more than ill will\".  Nevertheless, perhaps because of his skill or his close ties to Kliff and Ky, many refer to Sol as \"sir\" (さま, sama?) despite Sol—presumably—not being a ranking officer. \n"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": {
+    "english": "Dr. Paradigm",
+    "kanji": "Dr.パラダイム",
+    "romaji": "Dokutā Paradaimu"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/3/37/Dr._Paradigm.png/revision/latest?cb=20111018024429",
+  "profiles": {
+    "race": "Gear",
+    "gender": "Male",
+    "age": "Unknown",
+    "height": "115cm,142cmwithhiswingsspread",
+    "weight": "32kg",
+    "blood_type": "Unanalyzable",
+    "origin": "United States",
+    "birthday": "Unknown",
+    "eye_color": "Red",
+    "hobbies": [
+      "Studying ways to make a correlation diagram beautiful",
+      "Converting all phenomena into provisional information units and figuring out his brain's processing speed & memory capacity"
+    ],
+    "likes": [
+      "Getting a concrete view on any kind of philosophy",
+      "Gentleman attire"
+    ],
+    "dislikes": [
+      "People who don't plan things",
+      "People who glare",
+      "Mosquitoes"
+    ]
+  },
+  "description": {
+    "info": "Dr. Paradigm is a supporting character in the Guilty Gear series, who made his first appearance in Guilty Gear 2 -Overture-. An expert on magic, he lives in the Ganymede archipelago, a colony in which Gears reside peacefully away from humans.\n",
+    "design": "Dr.Paradigm is a Gear of a draconic appearance with avian features. He appears to be a small green dragon with large pointed ears, making him look somewhat like a goblin. His belly is covered in white plumage and has talons for feet. He is commonly seen perched on his lectern. Staying true to his title, Dr.Paradigm is always seen dressed in a sophisticated matter, wearing an academic cap and a vest. He also wears spiral glasses with papers tied to his antennae.\n",
+    "personality": "Although he's a Gear, he's very studious and flexibly absorbs all kinds of information. He's extremely rational and understands the world's logic in his own way. Conversely, he has a very stubborn personality once set in his ways, especially when it comes to humans. Although he is not hostile towards them, he thinks lowly of humanity and frankly doesn’t care if they go extinct.\n"
+  }
+}

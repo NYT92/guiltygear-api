@@ -1,0 +1,28 @@
+{
+  "name": {
+    "english": "Robo-Ky II",
+    "kanji": "ロボカイⅡ",
+    "romaji": "Robo Kai Tsū"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/e/e6/Robo-Ky_Mk.png/revision/latest?cb=20111019134942",
+  "profiles": {
+    "race": "Robot",
+    "gender": "Male programming",
+    "age": "Unknown",
+    "height": "",
+    "weight": "",
+    "blood_type": "",
+    "origin": "",
+    "birthday": "",
+    "eye_color": "",
+    "hobbies": "",
+    "likes": "",
+    "dislikes": ""
+  },
+  "description": {
+    "info": "Robo-Ky II, also called Robo-Ky Mk. II, is the mass-produced version of the original Robo-Ky. His moveset and technical parameters can be customized, and has been built to imitate techniques from other characters, not just Ky Kiske.\n",
+    "design": "Robo-Ky II is physically identical to the original Robo-Ky, though its colors are altered; white to red/magenta, blue to white, gray/turquoise plating to gold-ish bronze plating, and turquoise flashlight eyes instead of yellow. In its sprite, its \"teeth\" are the same as the original Robo-Ky's, only black.\nRobo-Ky II has the ability to adjust its body to use other characters' attacks, such as a race car that can fire eye-laser rays (Ky's Stun Dipper), grow a pair of large fans on its back (Anji's On), reveal a phonograph from its chest compartments (I-No's Antidepressant Scale), and so forth.\n",
+    "personality": "Not much is known about Robo-Ky II's personality, but it seems to be very similar to that of the original Robo-Ky. It may be incomplete, however, and thus may react very randomly.\n"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": {
+    "english": "Valentine",
+    "kanji": "ヴァレンタイン",
+    "romaji": "Varentain"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/f/f1/Valentine_Overture.png/revision/latest?cb=20111026125619",
+  "profiles": {
+    "race": "Valentine",
+    "gender": "Female",
+    "age": "Unknown",
+    "height": "165cm",
+    "weight": "45kg",
+    "blood_type": "O",
+    "origin": "Backyard",
+    "birthday": "Unknown",
+    "eye_color": "Reddish-brown",
+    "hobbies": "None",
+    "likes": "None",
+    "dislikes": "None"
+  },
+  "description": {
+    "info": "Valentine is a character in the Guilty Gear series that appears in Guilty Gear 2 -Overture-. A living copy of Aria Hale, Valentine has a personality of stone, speaking only when she explains her motives.\n",
+    "design": "Her style of dress is something similar to a Gothic type of style. She also wears headgear that resembles a pair of Bat's Wings. She also has two white antennae sprouting from the sides of her head.\n",
+    "personality": "She corresponds to matters in a mechanical way, showing no signs of emotion or desire. Since there are no intonations in her behavior or in her speech, she is intimidating because it seems like a doll talking. She often mentions that she is \"running errands for mother\". However, when Sol and company pursue Valentine to the Backyard, she starts to become irritated of them, developing her first emotions in the process: frustration and rage.\n"
+  }
+}

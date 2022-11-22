@@ -1,0 +1,38 @@
+{
+  "name": {
+    "english": "Sol Badguy",
+    "kanji": "ソル＝バッドガイ",
+    "romaji": "Soru Baddogai"
+  },
+  "alias": [
+    "FlameofCorruption/ImmoralFlame(背徳の炎,HaitokunoHonō?)",
+    "PrototypeGear(プロトタイプ,Purototaipu?)",
+    "GuiltyGear",
+    "Boss/Chief(旦那,Dan'na?)",
+    "OldMan(オヤジ,Oyaji?)",
+    "GodofWar(軍神,Gunshin?)"
+  ],
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/6/66/Sol_Guilty_Gear_Strive.png/revision/latest?cb=20191119010226",
+  "profiles": {
+    "race": "Gear",
+    "gender": "Male",
+    "age": "Unknown",
+    "height": [
+      "182 cm (6'0\") (GG—GG2)",
+      "184 cm (6'0\") (GGXrdS—)"
+    ],
+    "weight": "74kg(163lbs.)",
+    "blood_type": "Unanalyzable",
+    "origin": "United States",
+    "birthday": "Unknown",
+    "eye_color": "Brown",
+    "hobbies": "Listening to Queen",
+    "likes": "His \"Sheer Heart Attack\" record by Queen",
+    "dislikes": "Effort, trying hard"
+  },
+  "description": {
+    "info": "Sol Badguy is the protagonist of the Guilty Gear series and Ky Kiske's rival. He is an aloof and brash bounty hunter of immense skill on a quest to find and eliminate all Gears and their creator, That Man. For a short time, Sol was also a member of the Sacred Order of Holy Knights during the Crusades, known as \"Order-Sol\".\nSol has an Awakened form, who is an unlockable boss character in Guilty Gear Isuka only.\n",
+    "design": "Sol has fair skin, brown hair and eyes, which are sometimes depicted as reddish-brown or golden with slit pupils—the latter of which is to distinguish his true nature as a Gear. Wearing a red headband bearing the words \"Rock You\", Sol keeps his spiky, waist-length hair tied at all times. The headband conceals the red brand on his forehead that would expose him as a Gear. He has muscular physique, whether he is infused with Flame of Corruption or not. As Frederick, he is depicted with either brown or blue eyes; he sports a much shorter hair, a muscular physique and a white labcoat.\nHe wears a tight, black undershirt with the top half covered by a red sleeveless jacket, along with white jeans. His belt buckle has the word \"FREE\" scratched on it and a drape of red cloth hanging down beneath. Sol also wears a pair of black fingerless gloves, red shoes, and a multitude of belts, including a lone one on his left bicep. In later games, he is seen sporting long-sleeved, red leather jackets as well.\n",
+    "personality": "In the past, as \"Frederick\", he seemed to be a simple-yet-aloof scientist, who was content with having only two friends, not bothering to compromise his own integrity to appeal to others around him;  however, upon becoming a \"monster\",  his prior unruly traits became much more pronounced.\nSullen and unrefined, Sol only speaks to others when absolutely necessary.  Consequently, he is not very good at expressing himself, and tends to compensate by bullying people into line or simply steamrolling them.  A lone wolf with a belligerent streak, Sol is actually an extremely intelligent individual who doesn't tolerate nonsense   and gets \"grumpy\" whenever he cannot explain something with logic.  He is also quite stubborn, never allowing the opinions of others to dissuade him once he has made up his mind. Sol is seen by most people as crude and self-centered, even those who might call him a friend. \nConversely, Sol hates working any harder than he has to, rarely putting much effort into anything  that isn't related to his goals, and is often irritated by having to deal with opponents. This laziness is reflected in his fighting style—his moves are unrefined, but powerful so as to finish enemies with a single blow —and extends to how he raised Sin, putting him through the most basic forms of education and rarely explaining concepts in detail. \nHe may cynically mock Ky's \"justice\",  but Sol is utterly dedicated to averting further tragedy,  even as he refuses to acknowledge it,   and is quite compassionate in contrast to his tough, anti-social persona. He spares the lives of Solaria,  Testament  and Dizzy,  raises Sin at the behest of Ky and Dizzy,  swears to save Elphelt,  comforts Ramlethal,  and even offers a prayer for Justice's soul as she dies. \nPre-Overture, Sol roamed the world alone and kept everyone at a distance. Bearing the guilt of working on the Gear Project,  humanity's near extinction,  Aria's death,  the burden of That Man's betrayal  and being a \"monster\",  Sol dedicated himself to eliminating all Gears and to exact his revenge on That Man.  However, his clashes with other characters slowly begin to change his outlook, as does reluctantly taking Sin as his ward and hearing their motivations. In Revelator, Sol admits to Ariels that the world where he kept himself distant to others is worth saving, and finally acknowledges that despite what he is and his fear of the future, he is no longer alone in the world as his own actions and others' affect each other within the world; he compares it to a \"huge firework he can't miss\".  In Strive, Sol is shown to be more at ease and friendly with those around him.  \nDespite his often composed demeanor, Sol expresses a nervous attitude whenever his connection to Dizzy is discussed.  He is shown feeling embarrassment and is eager to avoid the issue, rather than acknowledge the possibility that he may be Dizzy's father. \n"
+  }
+}

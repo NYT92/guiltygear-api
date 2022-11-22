@@ -1,0 +1,34 @@
+{
+  "name": {
+    "english": "Izuna",
+    "kanji": "イズナ",
+    "romaji": "Izuna"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/5/54/Izuna.png/revision/latest?cb=20111018023845",
+  "profiles": {
+    "race": "Yokai",
+    "gender": "Male",
+    "age": "Unknown",
+    "height": [
+      "182 cm",
+      "204 cm (counting the ears)"
+    ],
+    "weight": "68kg",
+    "blood_type": "Unknown",
+    "origin": "Backyard",
+    "birthday": "August 3",
+    "eye_color": [
+      "Black",
+      "Redwhenonetakesapicture"
+    ],
+    "hobbies": "Traveling around and eating fried tofu, comparing the tastes from each region; traditional Japanese folk songs",
+    "likes": "The sense of \"It'll work itself out\"; friends; affection",
+    "dislikes": "Thoughts that lack in charm; people who don't take care of their things; reference"
+  },
+  "description": {
+    "info": "Izuna is a major character in Guilty Gear 2 -Overture-. A non-human from another plane of existence known as the Backyard, Izuna lends his aid to Sol Badguy and Sin Kiske when they are attacked by a mysterious army, guiding them on their journey.\n",
+    "design": "...\n",
+    "personality": "Despite having a keen sense of observation, he seems aloof on the surface, so you can’t read him. He holds true to his motto \"Go with the flow\", and he finds it important to spend time and share happiness with friends rather than by oneself. But don’t get him wrong; he is by no means an easy-going person.\n"
+  }
+}

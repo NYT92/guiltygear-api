@@ -1,0 +1,28 @@
+{
+  "name": {
+    "english": "Venom",
+    "kanji": "ヴェノム",
+    "romaji": "Venomu"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/c/cc/Venom_REV.png/revision/latest?cb=20200515035313",
+  "profiles": {
+    "race": "Human",
+    "gender": "Male",
+    "age": "Unknown",
+    "height": "179cm(5'10”)",
+    "weight": "66kg(146lbs.)",
+    "blood_type": "O",
+    "origin": "England",
+    "birthday": "Unknown (is an orphan)",
+    "eye_color": "Blue",
+    "hobbies": "Reading, chess",
+    "likes": "Zato, compassion",
+    "dislikes": "Blood, anyone who would wrong Zato"
+  },
+  "description": {
+    "info": "Venom is a recurring character in the Guilty Gear series. A young man taken in by the Assassin's Guild, he has sworn undying loyalty to the one who saved him, Zato-ONE. Like many other characters in the series, Venom uses a very unusual weapon, a pool cue, and attacks with a number of billiard-based moves.\n",
+    "design": "Venom is a fit, dark-skinned man with long, white hair. He has a handsome face and blue eyes, but the bangs are long enough to cover his face completely, and a light-blue eye pattern is drawn on the bangs. He usually wears the guild's standard uniform, which he removes to fight his opponents.\nIn battle, he sports a white open vest that goes down only to his upper chest. His matching pants only cover his waist and left leg, as his right leg is covered by a black legging. He also wears matching black gloves and boots, and his whole attire is decorated with black attachments on his arms, legs and waist. In Guilty Gear Xrd, the words \"Settle with Elegance\" are written on several parts of Venom's uniform along with \"British Elegance\" on his vest's buckles.\nAt the end of After Story B, Venom dons a classic baker's outfit: he has a white chef's coat, black pants, a black waist apron with matching neckerchief, and a tall white chef's hat.\n",
+    "personality": "Though he is an assassin by trade, Venom is a gentle and honest man who can barely bring himself to lie. He speaks with rigidity and seems to favor logic and reason above all, but he places high importance on empathy, emotion, and his own humility. However, if one is to openly declare themselves as an enemy of Zato, it will ignite a rage within Venom that cannot be easily extinguished.\nVenom has a calm and unobtrusive personality—unless he perceives Zato to be in any sort of danger—as well as a literary mind. Having grown up in an impersonal environment from an early age, he doesn't have a particular sense of purpose in his life other than serving Zato and, by extension, the guild. Though Venom hates murder intuitively, he is a diligent person who will complete his assigned task regardless of his own desires. If not on a mission, he seems to prefer to intimidate his opponents via words rather than force a confrontation.\n"
+  }
+}

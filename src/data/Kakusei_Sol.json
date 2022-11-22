@@ -1,0 +1,28 @@
+{
+  "name": {
+    "english": "Kakusei Sol",
+    "kanji": "覚醒ソル / 暴走ソル",
+    "romaji": "Kakusei Soru / Bōsō Soru"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/1/15/Kakusei_Sol_Badguy_sprites.gif/revision/latest?cb=20190323133323",
+  "profiles": {
+    "race": "Gear",
+    "gender": "Male",
+    "age": "",
+    "height": "184cm",
+    "weight": "74kg",
+    "blood_type": "",
+    "origin": "",
+    "birthday": "",
+    "eye_color": "",
+    "hobbies": "",
+    "likes": "",
+    "dislikes": ""
+  },
+  "description": {
+    "info": "Kakusei Sol (which means \"Awakened Sol\" in Japanese), also called Bousou Sol (\"Rampaging Sol\" in Japanese), is an awakened EX version of Sol Badguy that only appears in Guilty Gear Isuka. He is one of two bosses in its GG Boost Mode, the other being Kakusei Ky.\n",
+    "design": "",
+    "personality": ""
+  }
+}

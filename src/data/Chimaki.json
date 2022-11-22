@@ -1,0 +1,28 @@
+{
+  "name": {
+    "english": "Chimaki",
+    "kanji": "ちまき",
+    "romaji": "Chimaki"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/7/7e/Chimaki.png/revision/latest?cb=20111106180001",
+  "profiles": {
+    "race": "Mononofu",
+    "gender": "Male",
+    "age": "Unknown",
+    "height": "124cm(4'1\")",
+    "weight": "Easily-lifted-with-one-handkg",
+    "blood_type": "AcompoundrichinIsothiocyanate",
+    "origin": "Japon (pronounced Hah-pone)",
+    "birthday": "August 14",
+    "eye_color": "Black",
+    "hobbies": "Writing entries for his small animal observation diary",
+    "likes": "Faith, or onigiri",
+    "dislikes": "Disloyalty, or the sour plum inside an onigiri; people bending his topknot"
+  },
+  "description": {
+    "info": "Chimaki is a mysterious and silent character in the Guilty Gear series who, according to Daisuke Ishiwatari, serves as the franchise's mascot.\nIn Guilty Gear 2 -Overture-'s Replay Mode, players can run around the field controlling him. Chimaki received his own spin-off game in Pro Jumper! Guilty Gear Tangent!?, and appears in multiplayer lobbies in Guilty Gear Xrd -Revelator- to give advice to players.\n",
+    "design": "Chimaki's body has the shape of a white star, pitch black eyes, a topknot, and a small green leaf between his leg- Sporting a moustache and smoking a cigarette, Chimaki can be confused for a stuffed toy.\n",
+    "personality": "It is said that Chimaki does not actually think, at least in any way humans understand. He is not entirely aware of what those around him do, or, for that matter, what he himself does. Anything said to him goes in one ear and out the other... if he has ears. Supposedly he has the same emotional capacity as a human being, which may be why he seems to show affection for small animals to the point of following them around and documenting their routines.\nHe has an excellent aesthetic sense, is gentle, easily moved to tears, and sensitive to bullying. He is also a man of few words, but when he is moved emotionally, those words become fewer still. When a particular item is put into play, his intelligence and cleverness increase exponentially.\n"
+  }
+}

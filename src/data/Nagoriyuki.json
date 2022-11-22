@@ -1,0 +1,28 @@
+{
+  "name": {
+    "english": "Nagoriyuki",
+    "kanji": "名残雪",
+    "romaji": "Nagoriyuki"
+  },
+  "alias": null,
+  "image": "https://static.wikia.nocookie.net/guilty-gear/images/6/6b/Nagoriyuki_Guilty_Gear_Strive.png/revision/latest?cb=20220322050744",
+  "profiles": {
+    "race": "Nightwalker",
+    "gender": "Male",
+    "age": "Unknown",
+    "height": "205cm(6'9\")",
+    "weight": "96kg(212lbs.)",
+    "blood_type": "Unanalyzable",
+    "origin": "Nigeria",
+    "birthday": "March 18",
+    "eye_color": "Lightblue",
+    "hobbies": "Haiku, meditating",
+    "likes": "Bushido, tomato juice",
+    "dislikes": "Dishonesty, worldly desires, crabs"
+  },
+  "description": {
+    "info": "Nagoriyuki is a playable character in the Guilty Gear series who makes his first appearance on Guilty Gear -Strive-. He is described as a noble vampire samurai who wields a bloodsucking blade.\n",
+    "design": "Nagoriyuki is a tall, heavily built, dark-skinned man with blue eyes and thick, shoulder-length Dread-locks tied into a ponytail. He wears a white coat with purple lining decorated with silver studs and snaps in the style of a haori, with only his right arm through the sleeve; the back of the jacket is emblazoned with a red kanji 心 (kokoro?, heart) and the word \"HEART\" beneath. This is worn over a simple orange robe cinched at the waist by a red obi and three leather belts, which is likewise half-removed. Beneath this is a long white waist cloth matching his jacket, with several purple and blue straps embroidered with crosses and the phrase \"KEEP OUT.\" He also wears white fingerless gloves, black leggings, and simple gray sandals.\nHis white mechanical helmet resembles a hannya mask with elongated horns and a rictus grin. In place of eyes and a nose is a featureless white surface marked with the same red kanji that appears on his coat. The helmet can automatically disassemble, retracting behind his head. He also carries a traditional daishou pair of swords sheathed at the hip, with the oodachi locking into its scabbard via a mechanical apparatus in the hilt.\n",
+    "personality": "As noble as he is, he is also a kind man, often being willing to provide advice to those he defeats in battle much akin to Slayer, though he often expresses regret and no ill will towards others when it comes to his past being a puppet of Happy Chaos' bidding. Unlike Slayer, he seems to be more active in expressing his desire to help others in spite of having as little worldly-attachments as he does.\n"
+  }
+}
