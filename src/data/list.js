@@ -259,7 +259,7 @@ const list = [
   },
   {
     character_name: 'Sin Kiske',
-    character_img: 'https://static.wikia.nocookie.net/guilty-gear/images/3/3f/SinRev.png/?cb=20160526233722',
+    character_img: 'https://static.wikia.nocookie.net/guilty-gear/images/d/d7/Sin_Kiske_Strive.png/?cb=20221122074425',
     character_fandom_url: 'https://guiltygear.fandom.com/wiki/Sin_Kiske',
     character_id: 'sin_kiske',
   },
